@@ -1,9 +1,47 @@
 ---
-title: "About"
+title: "Final Year Project Description"
 ---
 
-About this site
+# My Final Year Project: Business Expansion Plan
 
-```{r}
-1 + 1
-```
+During my **Diploma in Business** and subsequent **Business Development Internship**, I worked on a project titled **"Business Expansion Plan for Emerging Markets"**. This project focused on helping a mid-sized retail company expand its operations into Southeast Asia, leveraging financial analysis and strategic planning.
+
+## Project Goals
+
+1. **Market Analysis**: 
+   - Conducted extensive research on consumer behavior, regulatory requirements, and competitor landscapes in Southeast Asia.
+2. **Financial Projections**: 
+   - Developed a 3-year financial forecast, including revenue, profit margins, and break-even analysis.
+3. **Strategic Recommendations**: 
+   - Proposed actionable strategies for entering new markets, optimizing supply chains, and marketing to target demographics.
+
+## Key Insights
+
+- **Consumer Trends**: Identified a significant demand for affordable luxury goods in Malaysia and Vietnam.
+- **Cost Efficiency**: Highlighted key areas for cost optimization, reducing operational costs by 15%.
+- **Partnership Opportunities**: Recommended forming partnerships with local distributors to streamline market entry.
+
+## Challenges Faced
+
+- **Data Gaps**: Limited availability of reliable market data required creative problem-solving and alternative research methods.
+- **Cultural Barriers**: Addressed cultural differences to create effective marketing strategies tailored to local audiences.
+
+## Results and Impact
+
+The project was highly successful, with actionable recommendations that allowed the company to expand into two new markets. These strategies were implemented within six months of the project's completion.
+
+---
+
+## Visuals from the Project
+
+### Market Analysis Visualization
+
+![Market Analysis](market_analysis.jpg){width=400px style="margin-top: 10px;"}
+
+---
+
+### Video: Key Recommendations for Business Expansion
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NOZ7fp3V3Zg" frameborder="0" allowfullscreen></iframe>
+
+---

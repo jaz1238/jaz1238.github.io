@@ -1,0 +1,71 @@
+---
+title: "Learning Notes and Reflections"
+---
+
+This page reflects on the **key lessons**, **challenges**, and **skills** I developed during my Final Year Project, titled *"Business Expansion Plan for Emerging Markets"*.
+
+---
+
+## Key Takeaways
+
+### 1. Strategic Thinking
+- **Lesson**: Learned how to create a strategic roadmap for a business expansion, breaking down complex problems into actionable steps.
+- **Reflection**: Developing recommendations for market entry taught me to approach problems with a structured framework.
+- **Impact**: This skill has been instrumental in my current academic projects, where I often need to analyze complex case studies.
+
+### 2. Financial Analysis
+- **Lesson**: Strengthened my ability to create detailed financial models, including profit projections and sensitivity analyses.
+- **Reflection**: The financial planning process helped me better understand how to balance risk and return in real-world scenarios.
+- **Impact**: These skills have been foundational for advanced coursework in finance and investment at SIT.
+
+### 3. Cross-Cultural Awareness
+- **Lesson**: Gained an appreciation for the nuances of cultural differences in Southeast Asian markets.
+- **Reflection**: Navigating cultural barriers to design effective marketing strategies was a significant growth experience.
+- **Impact**: This has improved my ability to communicate and collaborate in diverse teams at SIT and during my internship at AIA Singapore.
+
+---
+
+## Challenges Faced
+
+### 1. Data Limitations
+- **Challenge**: Access to reliable market data was limited, requiring creativity in sourcing alternative data.
+- **Reflection**: I learned to combine primary research with secondary data to make informed decisions.
+
+### 2. Time Constraints
+- **Challenge**: Balancing the depth of research with tight deadlines was difficult.
+- **Reflection**: Time management and prioritization became critical skills during the project.
+
+---
+
+## Skills Developed
+
+1. **Analytical Skills**:
+   - Enhanced my ability to interpret data and generate actionable insights.
+2. **Communication Skills**:
+   - Improved my ability to present complex financial and strategic concepts to non-technical audiences.
+3. **Leadership**:
+   - Took ownership of key deliverables and coordinated tasks with team members.
+
+---
+
+## Visual Representation of My Growth
+
+### Skill Development Timeline
+
+| Phase               | Skill Gained                  | Application in SIT Projects            |
+|---------------------|-------------------------------|----------------------------------------|
+| Research Phase      | Strategic Thinking           | Used in business case analyses         |
+| Financial Modeling  | Advanced Excel & Analytics   | Applied in coursework and internships  |
+| Presentation Phase  | Communication & Teamwork     | Improved collaboration with peers      |
+
+---
+
+## Final Reflections
+
+- **What I Learned**: This project helped me bridge the gap between academic theories and real-world applications, particularly in finance and business strategy.
+- **How I’ve Grown**: I’ve become more confident in my ability to lead complex projects and communicate effectively with stakeholders.
+- **Future Applications**: I aim to use these learnings in future roles, particularly in business consulting or financial planning.
+
+---
+
+Thank you for exploring my learning journey. If you'd like to know more, feel free to reach out!

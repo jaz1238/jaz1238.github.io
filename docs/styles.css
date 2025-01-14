@@ -1,1 +1,89 @@
-/* css styles */
+body {
+  font-family: "Lato", Arial, sans-serif; /* Modern and clean font */
+  font-size: 16px;
+  line-height: 1.6;
+  color: #333333; /* Neutral dark gray text */
+  background-color: #f9f9f9; /* Soft light background */
+  margin: 0;
+  padding: 0;
+}
+
+/* Paragraph Styling */
+p {
+  margin: 0 0 1.5em; /* Space between paragraphs */
+  padding: 0;
+  line-height: 1.8;
+  color: #555555; /* Softer gray for paragraph text */
+}
+
+/* Headings */
+h1 {
+  font-size: 32px;
+  color: #2c3e50; /* Deep blue for primary headings */
+  margin-bottom: 0.5em;
+  border-bottom: 3px solid #3498db; /* Add a blue underline */
+  padding-bottom: 5px;
+}
+
+h2 {
+  font-size: 24px;
+  color: #2c3e50;
+  margin-bottom: 0.5em;
+  border-bottom: 2px solid #3498db;
+}
+
+h3 {
+  font-size: 20px;
+  color: #2980b9; /* Medium blue for subheadings */
+}
+
+h4 {
+  font-size: 18px;
+  color: #2980b9;
+}
+
+/* Links */
+a {
+  color: #3498db; /* Bright blue links */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #2c3e50;
+  text-decoration: underline;
+}
+
+/* Buttons */
+button {
+  background-color: #3498db;
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 14px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+
+/* Navigation Bar */
+.navbar {
+  background-color: #3f5ff5; /* Purplish blue */
+  padding: 10px;
+}
+
+.navbar a {
+  color: #ffffff;
+  text-decoration: none;
+  padding: 10px 20px;
+  display: inline-block;
+}
+
+.navbar a:hover {
+  background-color: #3498db; /* Bright blue hover */
+  color: white;
+  border-radius: 5px;
+}

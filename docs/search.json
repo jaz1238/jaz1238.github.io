@@ -2,15 +2,127 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Jasbir’s Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi! My name is Jasbir (or Jas). I’m a university student at SIT, specializing in FinTech. My journey began in Finance, but my curiousity led me to explore the intersection of technology and business. I have recently interned at AIA Singapore, focusing on digital transformation and generative AI.\n\n\n\nThis is me!\n\n\n\n\n\n\n\n\n\nBesides exploring innovative technologies, I enjoy a good book to unwind after a long day and a good hike for exercise."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Final Year Project Description",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "During my Diploma in Business and subsequent Business Development Internship, I worked on a project titled “Business Expansion Plan for Emerging Markets”. This project focused on helping a mid-sized retail company expand its operations into Southeast Asia, leveraging financial analysis and strategic planning.\n\n\n\nMarket Analysis:\n\nConducted extensive research on consumer behavior, regulatory requirements, and competitor landscapes in Southeast Asia.\n\nFinancial Projections:\n\nDeveloped a 3-year financial forecast, including revenue, profit margins, and break-even analysis.\n\nStrategic Recommendations:\n\nProposed actionable strategies for entering new markets, optimizing supply chains, and marketing to target demographics.\n\n\n\n\n\n\nConsumer Trends: Identified a significant demand for affordable luxury goods in Malaysia and Vietnam.\nCost Efficiency: Highlighted key areas for cost optimization, reducing operational costs by 15%.\nPartnership Opportunities: Recommended forming partnerships with local distributors to streamline market entry.\n\n\n\n\n\nData Gaps: Limited availability of reliable market data required creative problem-solving and alternative research methods.\nCultural Barriers: Addressed cultural differences to create effective marketing strategies tailored to local audiences.\n\n\n\n\nThe project was highly successful, with actionable recommendations that allowed the company to expand into two new markets. These strategies were implemented within six months of the project’s completion.\n\n\n\n\n\n\n\n\n\nMarket Analysis"
+  },
+  {
+    "objectID": "extrapage.html",
+    "href": "extrapage.html",
+    "title": "Learning Notes and Reflections",
+    "section": "",
+    "text": "This page reflects on the key lessons, challenges, and skills I developed during my Final Year Project, titled “Business Expansion Plan for Emerging Markets”."
+  },
+  {
+    "objectID": "reflections.html",
+    "href": "reflections.html",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "This project of building a personal website has been a valuable learning experience, allowing me to learn new skills in RStudio and Quarto in a creative way. Below are my key reflections on the use of GenAI in this project:\n\n\n\nFor this project, GenAI has been a valuable assistant in building my website. It helped me structure my content and refine the layout of the pages. From suggesting ways to structure my pages to teaching me how to format my text and lastly assisting me with creating a pretty styles.css, GenAI saved me time and effort.\nThe tools also guided me in embedding multimedia elements like images and videos, ensuring my website was both informative and visually appealing. While the AI provided great suggestions, I ensured that the final content reflected my voice and purpose for the site.\nUsing GenAI in this project has shown me how technology can simplify complex tasks, allowing me to focus on creativity and personalisation. It’s been a great learning experience.\n\n\n\n\n\nTechnical Skills: Gained confidence using Quarto and Markdown for structured content creation.\nCreativity: Discovered innovative ways to present my projects and journey online.\nCollaboration with AI: Learned how to effectively use AI tools while ensuring the work remains authentic and personal.\n\n\n\n\n\nThis project has sparked an interest in exploring more web development tools and expanding my knowledge of how AI can be integrated into creative and professional workflows. I’m excited to apply these skills in future projects.\n\nThank you for taking the time to explore my reflections. Feel free to browse the other pages to learn more about my journey and experiences!"
+  },
+  {
+    "objectID": "index.html#what-i-love-to-do",
+    "href": "index.html#what-i-love-to-do",
+    "title": "Jasbir’s Website",
+    "section": "",
+    "text": "Besides exploring innovative technologies, I enjoy a good book to unwind after a long day and a good hike for exercise."
+  },
+  {
+    "objectID": "about.html#project-goals",
+    "href": "about.html#project-goals",
+    "title": "Final Year Project Description",
+    "section": "",
+    "text": "Market Analysis:\n\nConducted extensive research on consumer behavior, regulatory requirements, and competitor landscapes in Southeast Asia.\n\nFinancial Projections:\n\nDeveloped a 3-year financial forecast, including revenue, profit margins, and break-even analysis.\n\nStrategic Recommendations:\n\nProposed actionable strategies for entering new markets, optimizing supply chains, and marketing to target demographics."
+  },
+  {
+    "objectID": "about.html#key-insights",
+    "href": "about.html#key-insights",
+    "title": "Final Year Project Description",
+    "section": "",
+    "text": "Consumer Trends: Identified a significant demand for affordable luxury goods in Malaysia and Vietnam.\nCost Efficiency: Highlighted key areas for cost optimization, reducing operational costs by 15%.\nPartnership Opportunities: Recommended forming partnerships with local distributors to streamline market entry."
+  },
+  {
+    "objectID": "about.html#challenges-faced",
+    "href": "about.html#challenges-faced",
+    "title": "Final Year Project Description",
+    "section": "",
+    "text": "Data Gaps: Limited availability of reliable market data required creative problem-solving and alternative research methods.\nCultural Barriers: Addressed cultural differences to create effective marketing strategies tailored to local audiences."
+  },
+  {
+    "objectID": "about.html#results-and-impact",
+    "href": "about.html#results-and-impact",
+    "title": "Final Year Project Description",
+    "section": "",
+    "text": "The project was highly successful, with actionable recommendations that allowed the company to expand into two new markets. These strategies were implemented within six months of the project’s completion."
+  },
+  {
+    "objectID": "about.html#visuals-from-the-project",
+    "href": "about.html#visuals-from-the-project",
+    "title": "Final Year Project Description",
+    "section": "",
+    "text": "Market Analysis"
+  },
+  {
+    "objectID": "reflections.html#reflection-on-the-use-of-genai",
+    "href": "reflections.html#reflection-on-the-use-of-genai",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "For this project, GenAI has been a valuable assistant in building my website. It helped me structure my content and refine the layout of the pages. From suggesting ways to structure my pages to teaching me how to format my text and lastly assisting me with creating a pretty styles.css, GenAI saved me time and effort.\nThe tools also guided me in embedding multimedia elements like images and videos, ensuring my website was both informative and visually appealing. While the AI provided great suggestions, I ensured that the final content reflected my voice and purpose for the site.\nUsing GenAI in this project has shown me how technology can simplify complex tasks, allowing me to focus on creativity and personalisation. It’s been a great learning experience."
+  },
+  {
+    "objectID": "reflections.html#personal-growth",
+    "href": "reflections.html#personal-growth",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "Technical Skills: Gained confidence using Quarto and Markdown for structured content creation.\nCreativity: Discovered innovative ways to present my projects and journey online.\nCollaboration with AI: Learned how to effectively use AI tools while ensuring the work remains authentic and personal."
+  },
+  {
+    "objectID": "reflections.html#whats-next",
+    "href": "reflections.html#whats-next",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "This project has sparked an interest in exploring more web development tools and expanding my knowledge of how AI can be integrated into creative and professional workflows. I’m excited to apply these skills in future projects.\n\nThank you for taking the time to explore my reflections. Feel free to browse the other pages to learn more about my journey and experiences!"
+  },
+  {
+    "objectID": "extrapage.html#key-takeaways",
+    "href": "extrapage.html#key-takeaways",
+    "title": "Learning Notes and Reflections",
+    "section": "Key Takeaways",
+    "text": "Key Takeaways\n\n1. Strategic Thinking\n\nLesson: Learned how to create a strategic roadmap for a business expansion, breaking down complex problems into actionable steps.\nReflection: Developing recommendations for market entry taught me to approach problems with a structured framework.\nImpact: This skill has been instrumental in my current academic projects, where I often need to analyze complex case studies.\n\n\n\n2. Financial Analysis\n\nLesson: Strengthened my ability to create detailed financial models, including profit projections and sensitivity analyses.\nReflection: The financial planning process helped me better understand how to balance risk and return in real-world scenarios.\nImpact: These skills have been foundational for advanced coursework in finance and investment at SIT.\n\n\n\n3. Cross-Cultural Awareness\n\nLesson: Gained an appreciation for the nuances of cultural differences in Southeast Asian markets.\nReflection: Navigating cultural barriers to design effective marketing strategies was a significant growth experience.\nImpact: This has improved my ability to communicate and collaborate in diverse teams at SIT and during my internship at AIA Singapore."
+  },
+  {
+    "objectID": "extrapage.html#challenges-faced",
+    "href": "extrapage.html#challenges-faced",
+    "title": "Learning Notes and Reflections",
+    "section": "Challenges Faced",
+    "text": "Challenges Faced\n\n1. Data Limitations\n\nChallenge: Access to reliable market data was limited, requiring creativity in sourcing alternative data.\nReflection: I learned to combine primary research with secondary data to make informed decisions.\n\n\n\n2. Time Constraints\n\nChallenge: Balancing the depth of research with tight deadlines was difficult.\nReflection: Time management and prioritization became critical skills during the project."
+  },
+  {
+    "objectID": "extrapage.html#skills-developed",
+    "href": "extrapage.html#skills-developed",
+    "title": "Learning Notes and Reflections",
+    "section": "Skills Developed",
+    "text": "Skills Developed\n\nAnalytical Skills:\n\nEnhanced my ability to interpret data and generate actionable insights.\n\nCommunication Skills:\n\nImproved my ability to present complex financial and strategic concepts to non-technical audiences.\n\nLeadership:\n\nTook ownership of key deliverables and coordinated tasks with team members."
+  },
+  {
+    "objectID": "extrapage.html#visual-representation-of-my-growth",
+    "href": "extrapage.html#visual-representation-of-my-growth",
+    "title": "Learning Notes and Reflections",
+    "section": "Visual Representation of My Growth",
+    "text": "Visual Representation of My Growth\n\nSkill Development Timeline\n\n\n\n\n\n\n\n\nPhase\nSkill Gained\nApplication in SIT Projects\n\n\n\n\nResearch Phase\nStrategic Thinking\nUsed in business case analyses\n\n\nFinancial Modeling\nAdvanced Excel & Analytics\nApplied in coursework and internships\n\n\nPresentation Phase\nCommunication & Teamwork\nImproved collaboration with peers"
+  },
+  {
+    "objectID": "extrapage.html#final-reflections",
+    "href": "extrapage.html#final-reflections",
+    "title": "Learning Notes and Reflections",
+    "section": "Final Reflections",
+    "text": "Final Reflections\n\nWhat I Learned: This project helped me bridge the gap between academic theories and real-world applications, particularly in finance and business strategy.\nHow I’ve Grown: I’ve become more confident in my ability to lead complex projects and communicate effectively with stakeholders.\nFuture Applications: I aim to use these learnings in future roles, particularly in business consulting or financial planning.\n\n\nThank you for exploring my learning journey. If you’d like to know more, feel free to reach out!"
   }
 ]

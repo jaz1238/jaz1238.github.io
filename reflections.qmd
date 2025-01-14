@@ -1,0 +1,35 @@
+---
+title: "Reflection on the use of GenAI"
+---
+
+# Reflections on the Project
+
+This project of building a personal website has been a valuable learning experience, allowing me to learn new skills in RStudio and Quarto in a creative way. Below are my key reflections on the use of GenAI in this project:
+
+---
+
+## Reflection on the Use of GenAI
+
+For this project, GenAI has been a valuable assistant in building my website. It helped me structure my content and refine the layout of the pages. From suggesting ways to structure my pages to teaching me how to format my text and lastly assisting me with creating a pretty styles.css, GenAI saved me time and effort.
+
+The tools also guided me in embedding multimedia elements like images and videos, ensuring my website was both informative and visually appealing. While the AI provided great suggestions, I ensured that the final content reflected my voice and purpose for the site.
+
+Using GenAI in this project has shown me how technology can simplify complex tasks, allowing me to focus on creativity and personalisation. It’s been a great learning experience.
+
+---
+
+## Personal Growth
+
+- **Technical Skills**: Gained confidence using Quarto and Markdown for structured content creation.
+- **Creativity**: Discovered innovative ways to present my projects and journey online.
+- **Collaboration with AI**: Learned how to effectively use AI tools while ensuring the work remains authentic and personal.
+
+---
+
+## What’s Next?
+
+This project has sparked an interest in exploring more web development tools and expanding my knowledge of how AI can be integrated into creative and professional workflows. I’m excited to apply these skills in future projects.
+
+---
+
+Thank you for taking the time to explore my reflections. Feel free to browse the other pages to learn more about my journey and experiences!

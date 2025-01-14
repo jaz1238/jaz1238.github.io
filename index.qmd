@@ -1,11 +1,17 @@
 ---
-title: "temp_website"
+title: "Jasbir's Website"
 ---
 
-This is a Quarto website.
+# About Me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi! My name is Jasbir (or Jas). I'm a university student at SIT, specializing in FinTech. My journey began in Finance, but my curiousity led me to explore the intersection of technology and business. I have recently interned at AIA Singapore, focusing on digital transformation and generative AI.
 
-```{r}
-1 + 1
-```
+![This is me!](my_photo.jpeg){width=200px style="margin-top: 10px;"}
+
+## My Favorite Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R2_Mn-qRKjA" frameborder="0" allowfullscreen></iframe>
+
+## What I Love to Do
+
+*Besides exploring innovative technologies, I enjoy a good book to unwind after a long day and a good hike for exercise.*
